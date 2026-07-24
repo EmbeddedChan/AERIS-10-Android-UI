@@ -11,6 +11,8 @@ Last updated: 2026-07-23
 [Download EC-FusionKit-v1.13.6.apk](https://github.com/EmbeddedChan/AERIS-10-Android-UI/raw/main/apk/EC-FusionKit-v1.13.6.apk)
 
 
+This app is currently not available on Google Play.
+
 ## 🖼 UI Preview
 ![Screen 1](images/Screenshot_1.jpg)
 
