@@ -23,3 +23,12 @@ Welcome your feedback, feature requests, and bug reports.
 Please email me anytime.
 
 Email: embeddedchan@gmail.com
+
+## Support Development
+
+USDT (TRC20):
+
+![USDT TRC20 Donation](images/usdt-trc20-qr.jpg)
+
+Address:
+`TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
