@@ -12,7 +12,7 @@ Last updated: 2026-07-23
 
 The app is compatible with V7. The STM32 USB CDC interface has not been implemented yet.
 
-The USB interface chip of AERIS-10 is FT601. Please confirm whether the phone's USB port supports USB 3.2 Gen 1.
+If the USB interface chip of AERIS-10 is FT601, please confirm whether the phone's USB port supports USB 3.2 Gen 1.
 
 This app is currently not available on Google Play.
 
