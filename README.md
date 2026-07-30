@@ -35,3 +35,10 @@ USDT (TRC20):
 
 Address:
 `TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
+
+
+## Privacy Policy
+
+This application does not collect personal information.All file processing, and engineering tools operate locally on the user's device.
+
+For license validation purposes, the application may generate and transmit a unique installation identifier Android ID. This identifier is used solely for professional edition license verification.
