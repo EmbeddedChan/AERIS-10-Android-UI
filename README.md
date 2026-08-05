@@ -29,12 +29,23 @@ Email: embeddedchan@gmail.com
 
 ## Support Development
 
-USDT (TRC20):
+If you find this project useful, consider supporting its development with a donation.
+
+Donation (TRON / TRX / USDT-TRC20)
 
 ![USDT TRC20 Donation](images/usdt-trc20-qr.jpg)
-
 Address:
 `TWJxB5izJwCg7Q2cTVFkp9ZjamsFmE2UqV`
+
+Supporters may receive
+
+- Priority technical support
+- Custom builds for specific devices or requirements
+- Custom feature development (when feasible)
+- Early access to new features and beta versions
+- Help with integration or troubleshooting
+
+Your support helps keep this project actively maintained and improved. Thank you!
 
 
 ## Privacy Policy
