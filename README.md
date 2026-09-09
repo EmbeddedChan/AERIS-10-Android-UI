@@ -8,7 +8,7 @@ I don't have access to the AERIS-10 hardware, so I need help from the community 
 
 Last updated: 2026-07-23
 
-[Download EC-FusionKit-v1.13.6.apk](https://github.com/EmbeddedChan/AERIS-10-Android-UI/raw/main/apk/EC-FusionKit-v1.13.6.apk)
+[Download EC-FusionKit-v1.13.8.apk](https://github.com/EmbeddedChan/otdr-sor-viewer/raw/main/apk/EC-FusionKit-v1.13.8.apk)
 
 The app is compatible with V7. The STM32 USB CDC interface has not been implemented yet.
 
