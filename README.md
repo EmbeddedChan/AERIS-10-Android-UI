@@ -16,6 +16,9 @@ If the USB interface chip of AERIS-10 is FT601, please confirm whether the phone
 
 This app is currently not available on Google Play.
 
+Discord:
+https://discord.gg/JtmvvP5tX
+
 ## 🖼 UI Preview
 ![Screen 1](images/Screenshot_1.jpg)
 
